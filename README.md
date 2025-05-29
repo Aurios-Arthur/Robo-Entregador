@@ -23,6 +23,7 @@ O robô precisa se mover pela vila, pegando e entregando os pacotes corretamente
 
 A vila é representada por essas estradas:
 
+![Mapa da Vila](./db3d60cf-b714-4eda-9d10-50295fbdff57.jfif)
 ```js
 const roads = [
   "Alice's House-Bob's House", "Alice's House-Cabin",
